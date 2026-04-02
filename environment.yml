@@ -1,0 +1,16 @@
+name: emdat                  
+channels:
+  - defaults                 
+dependencies:
+  - python=3.12          
+  - ipykernel
+  - jupyter
+  - matplotlib
+  - numpy
+  - pandas
+  - seaborn  
+  - statsmodels                
+  - pip                      
+  - pip:
+    - openpyxl  
+    - pymannkendall
