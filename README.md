@@ -58,16 +58,24 @@ In this notebook, the methodology of Liu et al. (2024) is reproduced, who study 
 
 ## risk_assessment.ipynb 
 
-This notebook follows the methodology of Nakasu & Amrapala (2023), who analyze 'risk' and trends of natural disasters in Southeast Asia using data from EM-DAT (Delforge et al., 2025). Specifically, impacts associates with natural disasters are compared for different disaster types.
+This notebook follows the methodology of Nakasu & Amrapala (2023), who analyze 'risk' and trends of natural disasters in Southeast Asia using data from EM-DAT (Delforge et al., 2025). Specifically, the impacts associated with natural disasters are compared across different disaster types.
 
 
-## Notebook 4
+## trend_analysis.ipynb
+
+In this notebook, a trend analysis of global floods based on the methodology proposed by Hu et al. (2018) is conducted. Specifically, temporal patterns in global flood occurrences, the number of people affected by floods and flood-induced mortality will be investigated. 
 
 
 ## Sources 
 
 Delforge, D., Wathelet, V., Below, R., Sofia, C. L., Tonnelier, M., von Loenhout, J. A. F. and Speybroeck, N. (2025). EM-DAT: the Emergency Events Database. *International Journal of Disaster Risk Reduction, 124*, 1-17. https://doi.org/10.1016/j.ijdrr.2025.105509
 
+Hamed, K. H. and Rao, R. (1997). A modified Mann-Kendall trend test for autocorrelated data. *Journal of Hydrology, 204*, 182-196. https://doi.org/10.1016/S0022-1694(97)00125-X
+
+Hu, P., Zhang, Q., Shi, P, Chen, B. Fang, J. (2018). Flood-induced mortality across the globe: Spatiotemporal pattern and influencing factors. *Science of the Total Environment, 643*, 171-182. https://doi.org/10.1016/j.scitotenv.2018.06.197
+
 Liu, Q., Du, M., Wang, Y., Deng, J., Yan, W., Qin, C., Liu, M. & Liu, J. (2024). Global, regional and national trends and impacts of natural floods, 1990-2022. *Bull World Health Organ, 102*(6), 410-420. https://doi.org/10.2471/BLT.23.290243
 
 Nakasu, T., Amrapala, C. (2023). Evidence-based disaster risk assessment in Southeast Asian countries. *Natural Hazards Research, 3*(2), 295-304. https://doi.org/10.1016/j.nhres.2023.04.001 
+
+Sen, P. K. (1968). Estimates of the Regression Coefficient Based on Kendall's Tau. *Journal of the American Statistical Association, 6*(324), 1379-1389. https://doi.org/10.1080/01621459.1968.10480934 
