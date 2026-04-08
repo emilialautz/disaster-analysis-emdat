@@ -46,9 +46,9 @@ rm -rf emdat
 Delforge et al. (2025)
 
 
-## em-dat.ipynb
+## em_dat.ipynb
 
-This notebook losely follows a tutorial found on the EM-DAT GitHub (https://github.com/em-dat/python_tutorials/blob/main/python_tutorial_1_basic_operations_and_plotting.ipynb). In em-dat.ipynb, the data is loaded and analyzed with simple filtering, grouping and plotting methods.
+This notebook losely follows a tutorial found on the EM-DAT GitHub (https://github.com/em-dat/python_tutorials/blob/main/python_tutorial_1_basic_operations_and_plotting.ipynb). In em_dat.ipynb, data from EM-DAT (Delforge et al., 2025) is loaded and analyzed with simple filtering, grouping and plotting methods.
 
 
 ## logistic_regression.ipynb
