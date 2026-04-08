@@ -43,7 +43,7 @@ rm -rf emdat
 
 ## Data
 
-Delforge et al. (2025)
+We mostly utilize data from EM-DAT (Delforge et al., 2025), which is a global disaster database tracking human and economic impacts from 1900 to present. Around two-thirds of the 26'000+ unique disaster entries in EM-DAT relate to natural disasters, most of which being floods. Data from EM-DAT can be accessed via the website (https://public.emdat.be). Delforge et al. (2025) discuss known inconsistensies and biases in the data quality, particularly for events before 2000. Therefore, the notebooks in this repository exclusively utilize data from 2000 onwards.
 
 
 ## em_dat.ipynb
